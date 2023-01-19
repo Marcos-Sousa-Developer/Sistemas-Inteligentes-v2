@@ -27,7 +27,6 @@ Este trabalho está dividido em dois sub-problemas, o dos quadrados latinos norm
 
 * **`constraints`** : Função do tipo `f(A, a, B, b)` que devolve `True` se os vizinhos `A` e `B` satisfazem a restrição quando têm valores `A=a` e `B=b`. 
 
-
 ## Formulação do problema quadrado latino simples 
 Consideremos que temos n*n variáveis, e que cada variável tem valores possíveis de {1, .., n}, em que as restrições obrigam a que todas as variavés na mesma linha e coluna tenham valores diferentes.
 
