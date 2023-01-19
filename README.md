@@ -16,8 +16,6 @@ jupyter:
 
 ## Mini-projeto 2: Quadrados Latinos
 
-
-
 ![title](latin2.png)
 
 <!-- #region -->
@@ -33,24 +31,5 @@ O objetivo deste projeto é formular esta classe de puzzles como um CSP.
 Este trabalho está dividido em dois sub-problemas, o dos quadrados latinos normal, e a sua variação Futoshiki. O objetivo é formular cada problema de acordo com um CSP, usando a implementação disponibilizada pelo módulo `csp.py` que tem sido utilizado nas aulas PL, e resolver os problemas utilizando os algoritmos de procura adequados. Deverá apresentar a sua implementação bem como os testes que considerar necessários para demonstrar que a formulação está bem feita.
 
 
-#### Importante
-- Alguns dos quadrados podem já estar preenchidos. Isto deve ser contemplado na implementação.
-- Utilizem o ficheiro `csp.py` que vem com o *zip* do projeto.
 
-### Relatório
-
-O relatório é **obrigatório** e deverá ser apresentado em Jupyter Notebook **(*.ipynb)**, contendo:
-
-1. Explicação sobre a formulação do problema
-2. Implementação em Python para a formulação dos problemas e execução dos algoritmos, correr o código e apresentar os testes que considerem necessários
-3. Aplicação e comentários dos resultados dos algoritmos de procura para encontrar a solução dos problemas
-
-Qualquer trabalho que não tenha relatório ou não o tenha no formato pedido não será avaliado (i.e., nota 0). É fornecido um ficheiro esqueleto, **SI-proj2-XX.ipynb** (onde XX é o número do grupo) para realização do relatório. Não se esqueça de preencher os nomes e números dos elementos do grupo.
-
-### Entrega
-
-Deverá entregar um **zip** chamado **SI-proj2-XX** (onde XX é o número do grupo) com os dois ficheiros pedidos (relatório em formato `.ipynb`). Não altere o csp.py das aulas PL e não o submeta com o projeto. 
-
-**Data limite:** 4 de Maio às 23h59
-<!-- #endregion -->
 
