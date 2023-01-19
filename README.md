@@ -16,7 +16,7 @@ jupyter:
 
 ## Mini-projeto 2: Quadrados Latinos
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/10_x10_lateinisches_quadrat.svg/640px-10_x10_lateinisches_quadrat.svg.png" width="80px"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/10_x10_lateinisches_quadrat.svg/640px-10_x10_lateinisches_quadrat.svg.png" width="100px"> </img>
 
 <!-- #region -->
 ### Introdução
